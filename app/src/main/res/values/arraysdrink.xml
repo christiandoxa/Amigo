@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (C) 2016 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string-array name="drink">
+        <item>Wedang Kuweni Nata De Coco</item>
+        <item> Sirup Terong Belanda</item>
+        <item>Sirup Kopi</item>
+        <item> Sirup Asam</item>
+        <item>Jahe Secang Pandan </item>
+        <item>Bajigur</item>
+    </string-array>
+    <string-array name="desc_drink">
+        <item>Minuman hangat ini cocok diminum saat hangat. Dengan tambahan Nata De Coco, membuat rasanya semakin nikmat</item>
+        <item>Minuman yang terkenal ini, rasanya benar-benar enak </item>
+        <item>Jangan disangka, Kopi pun ada jenis Sirupnya !</item>
+        <item>Kalau kamu tidak suka minuman asam-asam, jangan cicipi ini ya ! </item>
+        <item>Nikmat dikala hangat, nikmat dikala sendiri
+        <item>
+        <item>Minuman ini benar-benar joss </item>
+    </string-array>
+    <string-array name="bahan_drink">
+        <item> Bahan-bahan : \n
+1.	2 buah mangga kweni matang (kupas dan cuci) \n
+2.	200 gram gula pasir \n
+3.	1 liter air \n
+4.	100 gram nata de coco iris tipis \n
+        </item>
+<item> Bahan-bahan : \n
+1.	500 gram terong belanda segar yang sudah matang, kupas, cincang kasar \n
+2.	400 gram gula pasir \n
+3.	500 ml air \n
+4.	¼ sdt citrunzuur \n </item>
+        <item> Bahan-bahan : \n
+1.	200 gram kopi bubuk \n
+2.	400 gram gula pasir \n
+3.	750 ml air \n
+4.	1 sdt citrunzuur \n
+ </item>
+        <item> Bahan-bahan : \n
+1.	500 gram asam jawa \n
+2.	1000 ml air \n
+3.	700 gram gula pasir \n
+        </item>
+        <item> Bahan-bahan : \n
+1.	1 genggam kayu secang \n
+2.	100 gram gula pasir \n
+3.	2 lembar daun pandan, simpulkan \n
+4.	50 gram jahe merah segar (memarkan) \n
+5.	25 gram biji selasih (rendam dalam 100 ml air hangat matang) \n
+6.	1 liter air \n
+
+</item>
+        <item> Bahan-bahan : \n
+1.	2 sdm kopi bubuk, siap pakai \n
+2.	200 gram gula merah sisir \n
+3.	1 liter santan dari 1 butir kelapa \n
+4.	100 gram kolang-kaling, iris \n
+5.	3 lembar daun pandan, simpulkan \n</item>
+    </string-array>
+    <string-array name="cara_drink">
+        <item> Cara membuat : \n
+1.	Kweni yang sudah dikupas dan dicuci bersih, dicincang halus. Tiriskan. \n
+2.	Rebus air dengan gula pasir hingga mendidih, angkat. Masukkan kweni dan nata de coco. Aduk rata. \n
+3.	Hidangkan hangat-hangat. \n
+</item>
+        <item> Cara membuat : \n
+1.	Campur terong belanda dan 500 ml air lalu diblender. \n
+2.	Tuang ke dalam panci antilengket, masukkan gula pasur dan sisa air 300 ml, rebus hingga mendidih. \n
+3.	Buang buihnya, angkat, dan dinginkan. \n
+4.	Tuangi citrunzuur, aduk hingga rata kembali lalu saring dengan saringan halus. \n
+5.	Hidangkan sebagai minuman dingin ditambah air dan es batu \n </item>
+        <item> Cara membuat : \n
+1.	Campur air dan gula pasir di dalam panci, lalu rebus sampai mendidih. \n
+2.	Masukkan kopi bubuk ke dalam air rebusan gula, masak kembali selama lima menit, angkat, saring, dan dinginkan. \n
+3.	Hidangkan dengan ditambah air, dapat disajikan hangat maupun dingin. \n</item>
+        <item> Cara membuat : \n
+1.	Campur asam dengan 1000 ml air dan 500 gram gula pasir, aduk. \n
+2.	Masak dalam api sedang hingga asam hancur dan air rebusan mengental. Angkat, dinginkan, dan saring. \n
+3.	Hidangkan dengan ditambah air, dapat menjadi minuman hangat maupun dingin. \n
+</item>
+        <item> Cara membuat : \n
+1. Rebus air, jahe, gula, daun pandan, dan kayu secang hingga mendidih (air berubah menjadi berwarna merah dan beraroma pandan jahe). \n
+2. Siapkan gelas atau cangkir, beri rendaman selasih ⅕ bagian, siram dengan air jahe secang panas. \n
+3. Hidangkan hangat berfungsi sebagai obat panas dalam. \n</item>
+        <item> Cara membuat :  \ n
+1. Masukkan kopi bubuk, gula merah, santan, dan daun pandan ke panci ukuran sedang menjadi satu. \n
+2. Rebus hingga api sedang sambil diaduk-aduk hingga mendidih. Angkat dan saring. \n
+3. Rebus kembali santan yang sudah disaring. Masukkan kolang-kaling hingga matang dan mendidih kembali. Angkat. \n
+4. Sajikan hangat bersama kue/camilan. \n</item>
+    </string-array>
+    <array name="picture_drink">
+        <item>@drawable/vv</item>
+        <item>@drawable/gg</item>
+        <item>@drawable/hh</item>
+        <item>@drawable/jj</item>
+        <item>@drawable/kk</item>
+        <item>@drawable/ll</item>
+    </array>
+</resources>
+

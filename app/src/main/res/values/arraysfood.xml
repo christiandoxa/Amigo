@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (C) 2016 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string-array name="food">
+        <item>Soto Daging</item>
+        <item> Mie Goreng Jawa Spesial Pedas</item>
+        <item> Tumis Kangkung spesial Pedas</item>
+        <item> Rendang Daging Khas Padang</item>
+        <item> Pizza Sederhana</item>
+        <item>Ayam Penyet Goreng dengan Sambal</item>
+    </string-array>
+    <string-array name="desc_food">
+        <item>Makanan berkuah ini mempunyai ciri khas gurih dan lezat. Tak dapat dipungkiri lagi kalau makanan ini ibarat wajib ada di Warung bahkan Restauran yang berstempelkan khas Indonesia. Soto daging ini pun membuat orang-orang yang mencicipinya akan keranjingan tuk memakannya lagi.
+        </item>
+        <item>Makanan khas Jawa Timur ini menjadi gemaran masyarakat kisaran 3 tahun akhir ini. Bagaimana tidak? Citra rasanya yang khas, apa lagi dibumbuhi rasa pedas menjadikannya lebih bercita rasa sedap.</item>
+        <item>Sayuran yang berasa sedikit asam ini ternyata punya daya Tarik sendiri untuk memikat orang tuk memakannya. Makanan ini merupakan makanan yang hampir selalu ada di warung maupun restauran di kawasan Jawa Timur</item>
+        <item>Makanan berdaging yang dilumuri bumbu ‘khusus’ ini, merupakan makanan terenak di dunia. Tak menyangka kan? Tapi ini memang benar, makanan ini sungguh enak apalagi kalau berasal dari Padang ataupun orang asli yang membuatnya </item>
+        <item>Lidah terasa kurang cocok memakan pizza yang dijual di Pelayanan Makanan Cepat Saji itu ya? Coba yang satu ini, pizza sederhana. Ya rasa gak kalah enak kok, membuatnya juga mudah.</item>
+        <item>Kalau kalian tahu, ayam penyet itu enak sekali, apalagi extra sambal. Mak nyuss.</item>
+    </string-array>
+    <string-array name="bahan_food">
+        <item> Bahan lengkap bagian : \n
+1.	gula 1 sdt \n
+2.	lengkuas 2 cm \n
+3.	daun jeruk purut sebanyak 3 lembar \n
+4.	santan kental 1000ml \n
+5.	daging sapi yang segar 1/2 kg \n
+6.	lengkuas 2 cm \n
+7.	serai 3 batang \n
+8.	air secukupnya \n
+9.	garam 2 sdm \n
+Bumbu dihaluskan : \n
+1.	jahe 1 cm, geprek \n
+2.	merica bubuk 1 sendok the \n
+3.	Penyedap rasa secukupnya \n
+4.	Garam secukupnya \n
+5.	bawang putih 8 siung \n
+6.	kemiri sangrai 3 butir \n
+7.	kunyit bakar 1 cm \n
+8.	ketumbar sangrai 1 sendok the \n
+9.	bawang merah 4 siung \n
+Bahan pelengkap lainnya : \n
+1.	koya
+2.	tauge, rendam di air panas
+3.	soun basah (rendam dalam air panas, lalu angkat dan tiriskan)
+4.	bawang goreng
+5.	kol, iris-iris
+\n
+        </item>
+        <item> Bahan lengkap diperlukan : \n
+1.	3 batang daun seledri, iris halus \n
+2.	Daun sawi secukupnya \n
+3.	Minyak goreng secukupnya \n
+4.	1 batang daun bawang, iris halus \n
+5.	Bawang Merah Goreng \n
+6.	Kecap manis, sesuai selera \n
+7.	1 bungkus mie telur \n
+8.	1 butir telur \n
+9.	100 gram udang galah, kupas \n
+Bumbu halus : \n
+1.	3 butir bawang putih \n
+2.	1 sdt garam \n
+3.	14 butir merica bulat \n
+4.	3 butir kemiri utuh, sangarai \n
+5.	4 butir bawang merah \n
+Pelengkap : \n
+1.	Sosis ataupun pentol bakso \n
+2.	Kerupuk \n
+3.	Bawang goreng \n
+4.	Daging ayam goreng yang di iris. \n
+5.	Telur rebus yang di iris/belah \n        </item>
+        <item> Bahan yang anda siapkan : \n
+1.	1/4 sdt gula pasir \n
+2.	50ml air \n
+3.	1 buah tomat, iris serong \n
+4.	1/4 sdt garam \n
+5.	2 ikat kangkung, bersihkan \n
+6.	1 buah cabai merah besar, iris serong \n
+Bumbu perlu dihaluskan : \n
+1.	1 sdt terasi bakar \n
+2.	4 butir bawang merah \n
+3.	2 buah cabai merah keriting \n
+4.	2 siung bawang putih \n
+</item>
+        <item> Bahan dari rendang : \n
+1.	12 gelas santan \n
+2.	1 lembar daun kunyit \n
+3.	1 1/2 kg daging sapi segar \n
+4.	2 biji asam kandis \n
+5.	Secukupnya Garam \n
+6.	1 batang serai,memarkan dulu \n
+7.	2 lembar daun jeruk purut segar \n
+Bumbu haluskan : \n
+1.	3 cm laos,geprek saja \n
+2.	5 buah Kemiri \n
+3.	6 siung bawang putih \n
+4.	2 cm Jahe \n
+5.	1 ons cabe merah segar \n
+6.	15 buah bawang merah \n
+        </item>
+        <item> Bahan-bahan dari pizza : \n
+1.	Susu cair hangat 200ml \n
+2.	mentega 3 sendok makan \n
+3.	minyak goreng 3 sendok makan \n
+4.	tepung terigu berprotein 250 gram \n
+5.	telur ayam 1 butir \n
+6.	ragi instan 4 gram \n
+Bahan isi dan saus : \n
+1.	keju sesuai selera \n
+2.	2 siung bawang putih \n
+3.	1 batang daun bawang cincang halus \n
+4.	2 tomat, potong tipis \n
+5.	2 buah bawang bombay, lalu cincang halus \n
+6.	1 butir telur \n
+7.	Daging cincang sesuai selera \n
+8.	3-4 sosis, potong potong \n
+9.	saus tomat dan saus cabai \n
+10.	1 buah paprika, keluarkan isinya dan potong kotak-kotak \n
+</item>
+        <item>
+Bahan dan bumbu ayam penyet : \n
+•	Minyak goreng secukupnya \n
+•	1 lembar daun salam \n
+•	3cm lengkuas, memarkan \n
+•	2cm jahe, memarkan \n
+•	1 ekor ayam negeri, potong jadi empat bagian \n
+•	200 ml air \n
+Bumbu dihaluskan : \n
+•	Garam secukupnya \n
+•	4 siung bawang putih \n
+•	1 cm kunyit \n
+•	1 sdt ketumbar \n
+Bahan sambal enak dan special : \n
+1.	1/2 buah tomat merah \n
+2.	7 buah cabe rawit merah \n
+3.	1/2 sdt terasi, dibakar \n
+4.	Garam secukupnya \n
+5.	1/2 sdt irisan gula merah \n
+6.	2 lembar daun jeruk purut \n
+7.	7 buah cabe merah keriting \n
+8.	2 tangkai kemangi, ambil daunnya \n
+9.	Membuat sambalnya dengan menghaluskan semua bahan sambal, masukkan daun kemangi tumbuk kasar. \n</item>
+    </string-array>
+    <string-array name="cara_food">
+        <item> Cara membuat soto daging : \n
+1.	Rebuslah semua bahan lengkap bagian 1 kecuali santan, rebus sampai agak lunak maka matikan api, dan sisa air rebusan jgn di buang semua dan sisakan untuk kaldu. \n
+2.	Angkat daging dan tiriskan dari rebusan tersebut. Potong-potong dagingnya, lebih bagus potong kotak. \n
+3.	Selanjutnya tumislah semua bumbu yg sudah dihaluskan dalam panci hingga harum. \n
+4.	Masukkan kembali daging bersama tumisan kedalam air kaldu. Tambahkan santan kental secukupnya, didihkan kembali dan masak sampai matang. \n
+5.	Cara penyajiannya adalah: memasukkan semua bahan pelengkap yang sdh kami tuliskan dalam mangkok. Terakhir siram dengan kuah soto yang sudah anda bikin. \n </item>
+        <item> Cara membuat mie goring : \n
+1.	Rebuslah mienya hingga matang dan tiriskan, kemudian campurkan dengan 2 atau 3 sdm minyak lalu aduk rata. \n
+2.	Tumislah bumbu halus yg sudah kami sebutkan. Tumis hingga harum, masukkan telur, orak arik hingga matang. \n
+3.	Selanjutnya masukkan udang galah dan sawi, masak hingga setengah layu barulah masukkan mie \n
+4.	Kemudian tambahkan potongan seledri dan daun bawang. Aduk semuanya hingga merata. \n
+5.	Beri kecap sesuai selera dan taburi bumbunya yaitu dengan garam secukupnya, aduk hingga rata. \n
+6.	Masak dan aduk hingga benar-benar tercampur rata dan cicipi sedikit kalau rasanya sudah pas matikan api. \n </item>
+        <item> Cara membuat tumis kangkung : \n
+1.	Tumislah bumbu yang sudah sobat haluskan dan tumis pakai minyak goreng secukupnya hingga beraroma harum. \n
+2.	Barulah tambahkan cabe merah bersama tomat, lalu aduk hingga merata. Kemudian sobat harus tambahkan kangkung dan di aduk ya. \n
+3.	Tuangkan air, kemudian beri bumbu agar tdk hambar seperti garam, gula pasir secukupnya saja agar rasanya pas. Masaklah tumis kangkung ini hingga matang, angkat dan sajikan. \n</item>
+        <item> Cara membuat rendang daging : \n
+1.	Potonglah daging sapi sesuai selera namun jgn terlalu tebal. \n
+2.	Rebuslah santan dengan bumbu yang sudah anda haluskan. \n
+3.	Kemudian masukanlah asam kandis, serai, kunyit dan daun jeruk. Aduk merata sampai mengental dan santan tidak pecah. \n
+4.	Jika mulai mendidih masukan daging. Aduk sebentar dan masak menggunakan api sedang sampai kuahnya agak surut dan matang \n </item>
+        <item> Cara Membuat Pizza Sederhana : \n
+1.	Campurlah terigu, mentega, aduk merata, lalu beri minyak dan aduk lagi. \n
+2.	Kemudian tambahkan telur dan susu, aduk lagi hingga lembut. Diamkan sebentar kurang lebih 15 menit dengan ditutupi kain serbet. \n
+3.	Sekarang tumislah bawang putih, sosis, tomat, telur, bombay, paprika. Tumis hingga masak lalu daun bawang terakhir dan tunggulah beberapa saat sebelum diangkat. \n
+4.	Tuanglah adonan roti yang sudah didiamkan tadi ke teflon dan ratakan, sambil ditusuk tusuk dengan garpu agar bisa mengembang adonan pizzanya. \n
+5.	Lumuri saus tomat pada adonan hingga rata. Lalu taburkan bahan bahan isi yang sudah ditumis. \n
+6.	Agar lebih mantap tambahkan parutan keju diatasnya, tutup rapat teflon setelah api dinyalakan dan tunggu sekitar 15 menit \n
+7.	Jika sudah matang lalu angkat, sekarang sudah siap disajikan deh.     \n   </item>
+        <item> Cara membuat ayam penyet : \n
+1.	Campurkan lah daging ayam dgn air, jahe, daun salam, lengkuas dan juga bumbu yg sudah sobat haluskan. \n
+2.	Masaklah dengan api kecil, tutup wajannya ya sobat. Masak hingga ayamnya matang dan semua bumbunya meresap. \n
+3.	Terakhir Goreng daging ayam hingga berwarna kekuningan, angkat dan sisihkan. \n </item>
+    </string-array>
+    <array name="picture_food">
+        <item>@drawable/aa</item>
+        <item>@drawable/bb</item>
+        <item>@drawable/cc</item>
+        <item>@drawable/dd</item>
+        <item>@drawable/ee</item>
+        <item>@drawable/ff</item>
+    </array>
+</resources>

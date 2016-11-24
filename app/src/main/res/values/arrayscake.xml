@@ -127,13 +127,13 @@ Bahan : \n
 Pastikan resep kue kering bola-bola Coklat sesuai takaran selanjutnya masukkan susu kental manis,margarin kedalam coklat yang sudah di lelehkan aduk rata. Kemudian campurkan bahan-bahan kering seperti biskuit yang sudah di remukkan dan kacang mede cincang aduk sampai semua bahan tercampur. \n \n
 Setelah adonan siap buat dan bentuk adonan menyerupai bola kecil dan gulingkan kedalam meisess sampai menutupi semua permukaan, terus lakukan sampai semua habis. Masukan bola yang sudah jadi kedalam lemari es kurang lebih selama setengah jam dan kue kering bola-bola coklat siap di sajikan. \n</item>
     </string-array>
-    <array name="picture_cake">
-        <item>@drawable/aa</item>
-        <item>@drawable/bb</item>
-        <item>@drawable/cc</item>
-        <item>@drawable/dd</item>
-        <item>@drawable/ee</item>
-        <item>@drawable/ff</item>
-    </array>
+    <!--<array name="picture_cake">-->
+    <!--<item>@drawable/aa</item>-->
+    <!--<item>@drawable/bb</item>-->
+    <!--<item>@drawable/cc</item>-->
+    <!--<item>@drawable/dd</item>-->
+    <!--<item>@drawable/ee</item>-->
+    <!--<item>@drawable/ff</item>-->
+    <!--</array>-->
 </resources>
 

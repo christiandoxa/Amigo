@@ -190,12 +190,12 @@ Bahan sambal enak dan special : \n
 2.	Masaklah dengan api kecil, tutup wajannya ya sobat. Masak hingga ayamnya matang dan semua bumbunya meresap. \n
 3.	Terakhir Goreng daging ayam hingga berwarna kekuningan, angkat dan sisihkan. \n </item>
     </string-array>
-    <array name="picture_food">
-        <item>@drawable/aa</item>
-        <item>@drawable/bb</item>
-        <item>@drawable/cc</item>
-        <item>@drawable/dd</item>
-        <item>@drawable/ee</item>
-        <item>@drawable/ff</item>
-    </array>
+    <!--<array name="picture_food">-->
+    <!--<item>@drawable/aa</item>-->
+    <!--<item>@drawable/bb</item>-->
+    <!--<item>@drawable/cc</item>-->
+    <!--<item>@drawable/dd</item>-->
+    <!--<item>@drawable/ee</item>-->
+    <!--<item>@drawable/ff</item>-->
+    <!--</array>-->
 </resources>

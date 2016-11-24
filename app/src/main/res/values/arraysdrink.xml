@@ -28,7 +28,7 @@
         <item>Jangan disangka, Kopi pun ada jenis Sirupnya !</item>
         <item>Kalau kamu tidak suka minuman asam-asam, jangan cicipi ini ya ! </item>
         <item>Nikmat dikala hangat, nikmat dikala sendiri
-        <item>
+        </item>
         <item>Minuman ini benar-benar joss </item>
     </string-array>
     <string-array name="bahan_drink">
@@ -101,13 +101,13 @@
 3. Rebus kembali santan yang sudah disaring. Masukkan kolang-kaling hingga matang dan mendidih kembali. Angkat. \n
 4. Sajikan hangat bersama kue/camilan. \n</item>
     </string-array>
-    <array name="picture_drink">
-        <item>@drawable/vv</item>
-        <item>@drawable/gg</item>
-        <item>@drawable/hh</item>
-        <item>@drawable/jj</item>
-        <item>@drawable/kk</item>
-        <item>@drawable/ll</item>
-    </array>
+    <!--<array name="picture_drink">-->
+    <!--<item>@drawable/vv</item>-->
+    <!--<item>@drawable/gg</item>-->
+    <!--<item>@drawable/hh</item>-->
+    <!--<item>@drawable/jj</item>-->
+    <!--<item>@drawable/kk</item>-->
+    <!--<item>@drawable/ll</item>-->
+    <!--</array>-->
 </resources>
 

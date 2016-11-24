@@ -9,7 +9,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
-    ImageButton food, drink;
+    ImageButton food, drink, cake;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
         food = (ImageButton) findViewById(R.id.ImageButtonFood);
         drink = (ImageButton) findViewById(R.id.ImageButtonDrink);
+        cake = (ImageButton) findViewById(R.id.ImageButtonCake);
 
         View.OnClickListener listenerfood = new View.OnClickListener() {
             @Override
@@ -41,5 +42,16 @@ public class MainActivity extends AppCompatActivity {
             }
         };
         drink.setOnClickListener(listenerdrink);
+
+        View.OnClickListener listenercake = new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(MainActivity.this, MainActivityCake.class));
+                Toast.makeText(MainActivity.this,
+                        "Cake telah terpilih",
+                        Toast.LENGTH_SHORT).show();
+            }
+        };
+        cake.setOnClickListener(listenercake);
     }
 }

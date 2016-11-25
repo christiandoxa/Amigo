@@ -1,5 +1,7 @@
 package id.sch.smktelkom_mlg.project.xirpl109182736.amigo.adapter;
 
+import android.content.Context;
+import android.net.Uri;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -13,15 +15,16 @@ import id.sch.smktelkom_mlg.project.xirpl109182736.amigo.R;
 import id.sch.smktelkom_mlg.project.xirpl109182736.amigo.model.Drink;
 
 /**
- * Created by redUSER on 25/11/2016.
+ * Created by redUSER on 11/25/2016.
  */
-
 
 public class DrinkAdapter extends RecyclerView.Adapter<DrinkAdapter.ViewHolder> {
     ArrayList<Drink> drinklist;
+    IDrinkAdapter mIDrinkAdapter;
 
-    public DrinkAdapter(ArrayList<Drink> drinklist) {
+    public DrinkAdapter(Context context, ArrayList<Drink> drinklist) {
         this.drinklist = drinklist;
+        mIDrinkAdapter = (IDrinkAdapter) context;
     }
 
     @Override
@@ -36,7 +39,7 @@ public class DrinkAdapter extends RecyclerView.Adapter<DrinkAdapter.ViewHolder> 
         Drink drink = drinklist.get(position);
         holder.tvJudul.setText(drink.judul);
         holder.tvDeskripsi.setText(drink.deskripsi);
-        holder.ivfoto.setImageDrawable(drink.foto);
+        holder.ivfoto.setImageURI(Uri.parse(drink.foto));
     }
 
     @Override
@@ -44,6 +47,10 @@ public class DrinkAdapter extends RecyclerView.Adapter<DrinkAdapter.ViewHolder> 
         if (drinklist != null)
             return drinklist.size();
         return 0;
+    }
+
+    public interface IDrinkAdapter {
+        void doClick(int pos);
     }
 
     public class ViewHolder extends RecyclerView.ViewHolder {
@@ -56,6 +63,14 @@ public class DrinkAdapter extends RecyclerView.Adapter<DrinkAdapter.ViewHolder> 
             ivfoto = (ImageView) itemView.findViewById(R.id.imageView);
             tvJudul = (TextView) itemView.findViewById(R.id.textViewJudul);
             tvDeskripsi = (TextView) itemView.findViewById(R.id.textViewDeskripsi);
+
+            itemView.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+                    mIDrinkAdapter.doClick(getAdapterPosition());
+                }
+            });
+
         }
     }
 }

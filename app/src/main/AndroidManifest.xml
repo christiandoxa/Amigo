@@ -19,7 +19,7 @@
         <activity android:name=".MainActivityDrink" />
         <activity android:name=".MainActivityCake" />
         <activity
-            android:name=".DetailActivity"
+            android:name=".DetailActivityFood"
             android:label="@string/title_activity_detail"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>

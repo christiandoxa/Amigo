@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
-    tools:context="id.sch.smktelkom_mlg.project.xirpl109182736.amigo.DetailActivity">
+    tools:context="id.sch.smktelkom_mlg.project.xirpl109182736.amigo.DetailActivityFood">
 
     <android.support.design.widget.AppBarLayout
         android:id="@+id/app_bar"
@@ -41,7 +41,7 @@
         </android.support.design.widget.CollapsingToolbarLayout>
     </android.support.design.widget.AppBarLayout>
 
-    <include layout="@layout/content_detail" />
+    <include layout="@layout/content_detail_food" />
 
     <android.support.design.widget.FloatingActionButton
         android:id="@+id/fab"

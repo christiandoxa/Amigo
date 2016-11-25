@@ -62,7 +62,7 @@ public class MainActivityFood extends AppCompatActivity implements FoodAdapter.I
 
     @Override
     public void doClick(int pos) {
-        Intent intent = new Intent(this, DetailActivity.class);
+        Intent intent = new Intent(this, DetailActivityFood.class);
         intent.putExtra(FOOD, mlist.get(pos));
         startActivity(intent);
     }

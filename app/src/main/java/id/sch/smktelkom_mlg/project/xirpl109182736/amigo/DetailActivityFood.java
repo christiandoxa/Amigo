@@ -12,12 +12,12 @@ import android.widget.TextView;
 
 import id.sch.smktelkom_mlg.project.xirpl109182736.amigo.model.Food;
 
-public class DetailActivity extends AppCompatActivity {
+public class DetailActivityFood extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_detail);
+        setContentView(R.layout.activity_detail_food);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 

@@ -29,6 +29,8 @@ public class MainActivityDrink extends AppCompatActivity {
         recyclerView.setAdapter(madapter);
 
         fillData();
+
+        setTitle("Drink");
     }
 
     private void fillData() {

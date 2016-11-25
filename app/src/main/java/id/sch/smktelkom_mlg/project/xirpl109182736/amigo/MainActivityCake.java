@@ -29,6 +29,8 @@ public class MainActivityCake extends AppCompatActivity {
         recyclerView.setAdapter(madapter);
 
         fillData();
+
+        setTitle("Cake");
     }
 
     private void fillData() {

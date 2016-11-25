@@ -16,21 +16,9 @@
         android:layout_height="140dp"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:layout_alignParentTop="true"
-        android:layout_marginTop="15dp"
-        android:scaleType="centerCrop"
+        android:layout_marginTop="8dp"
+        android:alpha="0.6"
         android:src="@drawable/food" />
-
-    <TextView
-        android:id="@+id/textViewFood"
-        android:layout_width="match_parent"
-        android:layout_height="50dp"
-        android:layout_alignLeft="@+id/textViewCake"
-        android:layout_alignStart="@+id/textViewCake"
-        android:layout_alignTop="@+id/ImageButtonFood"
-        android:layout_marginTop="42dp"
-        android:text="FOOD"
-        android:textSize="40dp" />
 
     <ImageButton
         android:id="@+id/ImageButtonDrink"
@@ -38,10 +26,9 @@
         android:layout_height="140dp"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:layout_centerVertical="true"
-        android:background="#00000000"
-        android:paddingTop="10dp"
-        android:scaleType="centerCrop"
+        android:layout_below="@id/ImageButtonFood"
+        android:layout_marginTop="8dp"
+        android:alpha="0.6"
         android:src="@drawable/drink" />
 
     <ImageButton
@@ -50,10 +37,30 @@
         android:layout_height="140dp"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:layout_below="@+id/ImageButtonDrink"
+        android:layout_below="@id/ImageButtonDrink"
         android:layout_marginTop="8dp"
-        android:background="#00000000"
+        android:alpha="0.6"
         android:src="@drawable/cake" />
+
+    <TextView
+        android:id="@+id/textViewFood"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_alignBottom="@+id/ImageButtonFood"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="45dp"
+        android:text="FOOD"
+        android:textSize="40dp" />
+
+    <TextView
+        android:id="@+id/textViewDrink"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_alignBottom="@+id/ImageButtonDrink"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="45dp"
+        android:text="DRINK"
+        android:textSize="40dp" />
 
     <TextView
         android:id="@+id/textViewCake"
@@ -65,12 +72,5 @@
         android:text="CAKE"
         android:textSize="40dp" />
 
-    <TextView
-        android:id="@+id/textViewDrink"
-        android:layout_width="wrap_content"
-        android:layout_height="50dp"
-        android:layout_centerHorizontal="true"
-        android:layout_centerVertical="true"
-        android:text="DRINK"
-        android:textSize="40dp" />
+
 </RelativeLayout>

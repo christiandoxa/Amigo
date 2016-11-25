@@ -1,5 +1,7 @@
 package id.sch.smktelkom_mlg.project.xirpl109182736.amigo.adapter;
 
+import android.content.Context;
+import android.net.Uri;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -18,9 +20,11 @@ import id.sch.smktelkom_mlg.project.xirpl109182736.amigo.model.Food;
 
 public class FoodAdapter extends RecyclerView.Adapter<FoodAdapter.ViewHolder> {
     ArrayList<Food> foodlist;
+    IFoodAdapter mIFoodAdapter;
 
-    public FoodAdapter(ArrayList<Food> foodlist) {
+    public FoodAdapter(Context context, ArrayList<Food> foodlist) {
         this.foodlist = foodlist;
+        mIFoodAdapter = (IFoodAdapter) context;
     }
 
     @Override
@@ -35,7 +39,7 @@ public class FoodAdapter extends RecyclerView.Adapter<FoodAdapter.ViewHolder> {
         Food food = foodlist.get(position);
         holder.tvJudul.setText(food.judul);
         holder.tvDeskripsi.setText(food.deskripsi);
-        holder.ivfoto.setImageDrawable(food.foto);
+        holder.ivfoto.setImageURI(Uri.parse(food.foto));
     }
 
     @Override
@@ -43,6 +47,10 @@ public class FoodAdapter extends RecyclerView.Adapter<FoodAdapter.ViewHolder> {
         if (foodlist != null)
             return foodlist.size();
         return 0;
+    }
+
+    public interface IFoodAdapter {
+        void doClick(int pos);
     }
 
     public class ViewHolder extends RecyclerView.ViewHolder {
@@ -55,6 +63,14 @@ public class FoodAdapter extends RecyclerView.Adapter<FoodAdapter.ViewHolder> {
             ivfoto = (ImageView) itemView.findViewById(R.id.imageView);
             tvJudul = (TextView) itemView.findViewById(R.id.textViewJudul);
             tvDeskripsi = (TextView) itemView.findViewById(R.id.textViewDeskripsi);
+
+            itemView.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+                    mIFoodAdapter.doClick(getAdapterPosition());
+                }
+            });
+
         }
     }
 }

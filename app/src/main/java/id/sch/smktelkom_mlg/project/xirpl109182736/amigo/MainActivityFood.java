@@ -41,8 +41,8 @@ public class MainActivityFood extends AppCompatActivity implements FoodAdapter.I
         Resources resources = getResources();
         String[] arJudul = resources.getStringArray(R.array.food);
         String[] arDeskripsi = resources.getStringArray(R.array.desc_food);
-        String[] arCara = resources.getStringArray(R.array.cara_food);
         String[] arBahan = resources.getStringArray(R.array.bahan_food);
+        String[] arCara = resources.getStringArray(R.array.cara_food);
         TypedArray a = resources.obtainTypedArray(R.array.picture_food);
         String[] arFoto = new String[a.length()];
         for (int i = 0; i < arFoto.length; i++) {

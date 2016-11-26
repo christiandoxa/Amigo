@@ -34,10 +34,12 @@ public class DetailActivityCake extends AppCompatActivity {
         setTitle(cake.judul);
         ImageView ivFoto = (ImageView) findViewById(R.id.imageFoto);
         ivFoto.setImageURI(Uri.parse(cake.foto));
-        TextView tvDeskripsi = (TextView) findViewById(R.id.bahan_cake);
-        tvDeskripsi.setText(cake.deskripsi + "\n\n" + cake.bahan);
-        TextView tvLokasi = (TextView) findViewById(R.id.cara_cake);
-        tvLokasi.setText(cake.cara);
+        TextView tvDeskripsi = (TextView) findViewById(R.id.desc_cake);
+        tvDeskripsi.setText(cake.deskripsi);
+        TextView tvBahan = (TextView) findViewById(R.id.bahan_cake);
+        tvBahan.setText(cake.bahan);
+        TextView tvCara = (TextView) findViewById(R.id.cara_cake);
+        tvCara.setText(cake.cara);
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         toolbar.setNavigationOnClickListener(new View.OnClickListener() {

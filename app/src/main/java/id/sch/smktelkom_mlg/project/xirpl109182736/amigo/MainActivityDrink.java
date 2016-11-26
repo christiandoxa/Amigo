@@ -41,8 +41,8 @@ public class MainActivityDrink extends AppCompatActivity implements DrinkAdapter
         Resources resources = getResources();
         String[] arJudul = resources.getStringArray(R.array.drink);
         String[] arDeskripsi = resources.getStringArray(R.array.desc_drink);
-        String[] arCara = resources.getStringArray(R.array.cara_drink);
         String[] arBahan = resources.getStringArray(R.array.bahan_drink);
+        String[] arCara = resources.getStringArray(R.array.cara_drink);
         TypedArray a = resources.obtainTypedArray(R.array.picture_drink);
         String[] arFoto = new String[a.length()];
         for (int i = 0; i < arFoto.length; i++) {

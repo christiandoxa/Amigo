@@ -34,10 +34,12 @@ public class DetailActivityDrink extends AppCompatActivity {
         setTitle(drink.judul);
         ImageView ivFoto = (ImageView) findViewById(R.id.imageFoto);
         ivFoto.setImageURI(Uri.parse(drink.foto));
-        TextView tvDeskripsi = (TextView) findViewById(R.id.bahan_drink);
-        tvDeskripsi.setText(drink.deskripsi + "\n\n" + drink.bahan);
-        TextView tvLokasi = (TextView) findViewById(R.id.cara_drink);
-        tvLokasi.setText(drink.cara);
+        TextView tvDeskripsi = (TextView) findViewById(R.id.desc_drink);
+        tvDeskripsi.setText(drink.deskripsi);
+        TextView tvBahan = (TextView) findViewById(R.id.bahan_drink);
+        tvBahan.setText(drink.bahan);
+        TextView tvCara = (TextView) findViewById(R.id.cara_drink);
+        tvCara.setText(drink.cara);
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         toolbar.setNavigationOnClickListener(new View.OnClickListener() {

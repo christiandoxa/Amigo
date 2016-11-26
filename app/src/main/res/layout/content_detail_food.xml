@@ -24,15 +24,28 @@
             android:textColor="?attr/colorAccent" />
 
         <TextView
-            android:id="@+id/bahan_food"
+            android:id="@+id/desc_food"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            tools:text="deskripsi" />
+            tools:text="Deskripsi" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="16dp"
+            android:layout_marginTop="16dp"
+            android:text="Bahan"
+            android:textColor="?attr/colorAccent" />
+
+        <TextView
+            android:id="@+id/bahan_food"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Bahan" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:text="Cara membuat"
             android:textColor="?attr/colorAccent" />

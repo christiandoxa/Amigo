@@ -13,7 +13,7 @@ public class Cake implements Serializable {
     public String cara;
     public String foto;
 
-    public Cake(String judul, String deskripsi, String cara, String bahan, String foto) {
+    public Cake(String judul, String deskripsi, String bahan, String cara, String foto) {
         this.judul = judul;
         this.deskripsi = deskripsi;
         this.bahan = bahan;

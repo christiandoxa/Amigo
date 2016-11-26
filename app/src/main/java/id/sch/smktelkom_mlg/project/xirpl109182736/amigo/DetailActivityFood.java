@@ -34,10 +34,12 @@ public class DetailActivityFood extends AppCompatActivity {
         setTitle(food.judul);
         ImageView ivFoto = (ImageView) findViewById(R.id.imageFoto);
         ivFoto.setImageURI(Uri.parse(food.foto));
-        TextView tvDeskripsi = (TextView) findViewById(R.id.bahan_food);
-        tvDeskripsi.setText(food.deskripsi + "\n\n" + food.bahan);
-        TextView tvLokasi = (TextView) findViewById(R.id.cara_food);
-        tvLokasi.setText(food.cara);
+        TextView tvDeskripsi = (TextView) findViewById(R.id.desc_food);
+        tvDeskripsi.setText(food.deskripsi);
+        TextView tvBahan = (TextView) findViewById(R.id.bahan_food);
+        tvBahan.setText(food.bahan);
+        TextView tvCara = (TextView) findViewById(R.id.cara_food);
+        tvCara.setText(food.cara);
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         toolbar.setNavigationOnClickListener(new View.OnClickListener() {

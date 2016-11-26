@@ -40,8 +40,8 @@ public class MainActivityCake extends AppCompatActivity implements CakeAdapter.I
         Resources resources = getResources();
         String[] arJudul = resources.getStringArray(R.array.cake);
         String[] arDeskripsi = resources.getStringArray(R.array.desc_cake);
-        String[] arCara = resources.getStringArray(R.array.cara_cake);
         String[] arBahan = resources.getStringArray(R.array.bahan_cake);
+        String[] arCara = resources.getStringArray(R.array.cara_cake);
         TypedArray a = resources.obtainTypedArray(R.array.picture_cake);
         String[] arFoto = new String[a.length()];
         for (int i = 0; i < arFoto.length; i++) {

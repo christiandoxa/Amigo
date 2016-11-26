@@ -16,108 +16,128 @@
 <resources>
     <string-array name="cake">
         <item>Kue Lumpur</item>
-        <item> Serabi Solo</item>
+        <item>Serabi Solo</item>
         <item>Bolu Kukus Mekar</item>
-        <item> Kue Pukis</item>
+        <item>Kue Pukis</item>
         <item>Kue Cenil </item>
         <item>Kue Bola-Bola Coklat</item>
     </string-array>
     <string-array name="desc_cake">
-        <item>Jajanan basah ini lumayan popular, bahkan bisa dibilang banyak sekali orang-orang yang gemar akan makanan basah ini</item>
+        <item>Jajanan basah ini lumayan popular, bahkan bisa dibilang banyak sekali orang-orang yang gemar akan makanan basah ini.</item>
         <item>Bundar, asik. Begitulah makanan ini dikenal. Tau kan surabi? Yang secara modern nya sekarang bisa ditambahi dengan beragam rasa.</item>
         <item>Bolu-bolu kukus mekar ini sering kita jumpai di beberapa acara formal, namun bisa juga di jajanan pasar ataupun sekolah. </item>
-        <item>Kue setengah lingkaran ini, tampak unyu ya. Sudah manis, lucu, dan indah </item>
+        <item>Kue setengah lingkaran ini, tampak unyu ya. Sudah manis, lucu, dan indah. </item>
         <item>Ih cenil, hahaha. Bukan, ini kue cenil ya, bukan centil. Hahaha. Dijamin mak nyuss tenan!</item>
-        <item>Coklat enak tuh, wah tambah lagi bola-bola. TAMBAH ENAK ! cobain dan RASAKAN Nikmatnya !</item>
+        <item>Coklat enak tuh, wah tambah lagi bola-bola. TAMBAH ENAK ! cobain dan RASAKAN Nikmatnya!</item>
     </string-array>
     <string-array name="bahan_cake">
-        <item> Bahan: \n
-1.	125 gr kentang dikukus lalu haluskan \n
-2.	250 gr tepung terigu \n
-3.	400 ml santan dari 65 ml santan kara + air \n
-4.	125 gr margarin cair \n
-5.	2 butir telur \n
-6.	125 gr gula pasir \n
-7.	1/4 sdt garam \n
-8.	1/4 sdt vanili \n
-9.	daging kelapa muda, keju cheddar atau kismis untuk topping \n</item>
-        <item>Bahan : \n
-        1. 1 sdm tepung terigu \n
-        2. 1 sdm gula pasir \n
-        3. 5 gr ragi instan \n
-        4. 50 ml air \n
-        5. 250 gr tepung beras \n
-        6. 125 gr gula pasir \n
-        7. 1 butir telur \n
-        8. 500 ml santan dari 200 ml santan kara \n
-        9. keju parut, meses dan aneka topping lainnya \n</item>
-        <item> Bahan : \n
-1.	275 gr tepung terigu protein sedang \n
-2.	200 ml sprite atau air soda yang masih fresh \n
-3.	200 gr gula pasir \n
-4.	2 butir telur \n
-5.	1/2 sdt baking powder \n
-6.	2 sdt tbm (emulsifier) \n
-7.	1/2 sdt vanili essens \n
-8.	Aneka aroma pasta warna-warni \n </item>
-        <item> Bahan : \n
-1.	125 gr tepung terigu \n
-2.	125 gr gula pasir \n
-3.	150 ml santan dari 65 ml santan kara dididihkan dahulu \n
-4.	1/2 sdt ragi instan \n
-5.	2 butir telur \n
-6.	35 gram keju cheddar diparut  \n
-7.	margarin untuk mengoles cetakan \n
-8.	coklat meses untuk topping \n
-9.	pasta pandan untuk kue pukis pandan \n</item>
-        <item> Bahan :  \n
-1.	400 gram tepung kanji, larutkan dg 60 ml air \n
-2.	215 ml air \n
-3.	1 sdt garam \n
-4.	pewarna makanan \n
-5.	2000 ml air untuk merebus \n
-6.	8 – 10 lembar daun pandan, potong-potong \n
-7.	½ butir kelapa setengah tua, kupas, parut memanjang \n
-8.	1 sdt garam \n
-9.	6 sdm gula pasir \n</item>
-        <item>Bahan : \n
-1.	100 g coklat blok lelehkan \n
-2.	6 keping biskuit marie regal(remukkan sampai halus) \n
-3.	50g kacang mede sangrai cincang kasar(kalau suka) \n
-4.	2sdm susu kental manis \n
-5.	4sdm margarin \n
-6.	Meises secukupnya \n</item>
+        <item> Bahan-bahan : \n
+-	125 gr kentang dikukus lalu haluskan\n
+-	250 gr tepung terigu \n
+-	400 ml santan dari 65 ml santan kara + air \n
+-	125 gr margarin cair \n
+-	2 butir telur \n
+-	125 gr gula pasir \n
+-	1/4 sdt garam \n
+-	1/4 sdt vanili \n
+-	daging kelapa muda, keju cheddar atau kismis (topping)</item>
+        <item> Bahan-bahan : \n
+-   1 sdm tepung terigu\n
+-   1 sdm gula pasir \n
+-   5 gr ragi instan \n
+-   50 ml air \n
+-   250 gr tepung beras \n
+-   125 gr gula pasir \n
+-   1 butir telur \n
+-   500 ml santan dari 200 ml santan kara \n
+-   keju parut, meses dan aneka topping lainnya</item>
+        <item> Bahan-bahan : \n
+-	275 gr tepung terigu protein sedang\n
+-	200 ml sprite atau air soda yang masih fresh \n
+-	200 gr gula pasir \n
+-	2 butir telur \n
+-	1/2 sdt baking powder \n
+-	2 sdt tbm (emulsifier) \n
+-	1/2 sdt vanili essens \n
+-	Aneka aroma pasta warna-warni</item>
+        <item> Bahan-bahan : \n
+-	125 gr tepung terigu\n
+-	125 gr gula pasir \n
+-	150 ml santan dari 65 ml santan kara dididihkan dahulu \n
+-	1/2 sdt ragi instan \n
+-	2 butir telur \n
+-	35 gram keju cheddar diparut  \n
+-	margarin untuk mengoles cetakan \n
+-	coklat meses untuk topping \n
+-	pasta pandan untuk kue pukis pandan</item>
+        <item> Bahan-bahan : \n
+-	400 gram tepung kanji, larutkan dg 60 ml air\n
+-	215 ml air \n
+-	1 sdt garam \n
+-	pewarna makanan \n
+-	2000 ml air untuk merebus \n
+-	8 – 10 lembar daun pandan, potong-potong \n
+-	½ butir kelapa setengah tua, kupas, parut memanjang \n
+-	1 sdt garam \n
+-	6 sdm gula pasir</item>
+        <item> Bahan-bahan : \n
+-	100 g coklat blok lelehkan\n
+-	6 keping biskuit marie regal(remukkan sampai halus) \n
+-	50g kacang mede sangrai cincang kasar(kalau suka) \n
+-	2sdm susu kental manis \n
+-	4sdm margarin \n
+-	Meises secukupnya</item>
     </string-array>
     <string-array name="cara_cake">
-        <item> Cara Membuat Kue Lumpur : \n
-1.	Kocok telur, gula pasir dan vanili dengan mixer kecepatan sedang selama 10 menit. Masukkan kentang halus lalu aduk rata, masukkan tepung terigu sedikit demi sedikit sambil diaduk hingga rata. \n
-2.	Tuang santan, garam dan margarin, aduk hingga rata. Saring adonan agar lembut dan tidak ada yang bergumpal. \n
-3.	Panaskan cetakan kue lumpur dan olesi tipis dengan margarin. Tuang adonan sampai penuh dan masak di atas api kecil agar matang merata serta tidak gosong. \n
-4.	Saat kue sudah setengah matang beri topping di atasnya, tunggu sampai bagian atas kue padat dan matang lalu angkat dan siap untuk disajikan. Takaran resep untuk 14 buah kue lumpur. \n</item>
-        <item> Cara Membuat Serabi Solo : \n
-1.	Pertama-tama membuat adonan biang, yaitu campur tepung terigu, 1 sdm gula pasir, ragi dan air lalu aduk rata kemudian diamkan adonan minimal selama 5 menit. \n
-2.	Campurkan tepung beras, gula pasir, telur, adonan biang dan sedikit santan. Uleni dengan tangan hingga rata dan gula larut baru kemudian tuang semua sisa santannya. Aduk hingga rata lalu diamkan adonan minimal selama 1 jam. \n
-3.	Panaskan cetakan serabi anti lengket atau wajan cekung yang anti lengket dengan menggunakan api kecil. Tuang 1 sendok sayur adonan dan langsung tekan adonan dengan sendok sayur tersebut sambil sedikit digoyang memutar untuk membentuk pinggirannya lalu tutup. Lakukan dengan cepat saat adonan baru selesai dituang, jika sedikit lama maka adonan akan mengental dan menjadi sulit membentuk pinggirannya. \n
-4.	Tutup wajan dan masak hingga matang sekitar 4 menit, buka tutup dan angkat. Lengkapi penyajiannya dengan aneka topping sesuai selera. \n</item>
-        <item> Cara Membuat Bolu Kukus Mekar : \n
-1.	Kocok telur, gula pasir dan emulsifier dengan mixer kecepatan tinggi hingga kaku dan kental selama 10 menit. \n
-2.	Masukkan campuran terigu dan baking powder, ayak dahulu agar tidak bergumpal. Masukkan vanili lalu air soda serta aduk perlahan. Kocok lagi sebentar dengan mixer supaya adonan tercampur rata. \n
-3.	Jika ingin membuat 4 variasi warna, 3 warna ambil masing-masing 6 sendok makan adonan lalu campur rata masing-masingnya dengan warna pasta yang dipilih. Sedangkan sisa adonan untuk warna dasarnya diberi pasta putih atau rasa sesuai selera, aduk rata. Sementara itu panaskan kukusan dengan air secukupnya atau jangan sampai penuh sampai benar-benar mendidih. \n
-4.	Tuang adonan putih ke dalam cetakan bolu kukus berlubang yang sudah dilapisi cup kertas dan lanjutkan dengan sedikit adonan warna lainnya sampai penuh atau sejajar dengan cetakan. Masukkan dalam kukusan dengan diberi jarak karena tidak mengapa adonan dibiarkan menunggu giliran. \n
-5.	Kukus selama 10 menit dengan api besar, tutup kukusan dengan dialasi kain serbet agar uap air tidak ada yang menetes. Buka tutup kukusan setelah 10 menit, hasilnya bisa menjadi 16 bolu kukus mekar. \n</item>
-        <item> Cara Membuat Kue Pukis : \n
-1.	Kocok telur dan gula pasir menggunakan mixer kecepatan tinggi hingga mengambang dan halus lalu turunkan kecepatan mixer menjadi sedang. \n
-2.	Campurkan tepung terigu dan ragi instan, aduk rata kemudian masukkan ke dalam kocokan telur sedikit demi sedikit sambil diaduk hingga rata. Tuang santan yang sudah dididihkan tadi, aduk sampai rata lalu matikan mixer dan istirahatkan adonan selama 30 menit. \n
-3.	Masukkan keju serta pasta pandan dalam adonan, aduk rata kemudian tuang ke dalam cetakan kue pukis yang sudah dipanaskan di atas api kecil dan diolesi tipis dengan margarin. Isi adonan dengan tidak sampai penuh karena nanti akan mengembang, tutup dan masak sampai setengah matang lalu taburi dengan meses atau topping lainnya lalu tutup kembali. Masak hingga matang dan bagian bawah berwarna kecoklatan. \n</item>
-        <item> Cara Membuat Kue Cenil : \n
-1.	Didihkan air dan garam di atas api sedang. Masukkan larutan tepung kanji sambil diaduk hingga adonan mengental, angkat. \n
-2.	Aduk terus hingga adonan mengental rata dan agak dingin, campurkan sisa tepung kanji sedikit demi sedikit ke dalamnya. Uleni hingga rata, lalu bagi adonan menjadi 3 bagian dan masing2nya diberi warna. \n
-3.	Ambil 1 sdm adonan setiap warna lalu rekatkan menjadi satu, gulung bentuk panjang sebesar kelingking lalu potong-potong. \n
-4.	Masak air dan daun pandan hingga mendidih. Kecilkan api lalu tutup panci, masak hingga aroma pandan meresap. Buang daun pandan, masukkan adonan yang sudah dipotong-potong, masak hingga mengapung (kurang lebih 5 menit), angkat. \n
-5.	Gulingkan ke dalam kelapa parut yang sudah dicampur garam, hidangkan dengan taburan gula pasir. \n</item>
-        <item> Cara Membuat Kue Bola-Bola Coklat : \n
-Pastikan resep kue kering bola-bola Coklat sesuai takaran selanjutnya masukkan susu kental manis,margarin kedalam coklat yang sudah di lelehkan aduk rata. Kemudian campurkan bahan-bahan kering seperti biskuit yang sudah di remukkan dan kacang mede cincang aduk sampai semua bahan tercampur. \n \n
-Setelah adonan siap buat dan bentuk adonan menyerupai bola kecil dan gulingkan kedalam meisess sampai menutupi semua permukaan, terus lakukan sampai semua habis. Masukan bola yang sudah jadi kedalam lemari es kurang lebih selama setengah jam dan kue kering bola-bola coklat siap di sajikan. \n</item>
+        <item> \n
+1.	Kocok telur, gula pasir dan vanili dengan mixer kecepatan sedang selama 10 menit. \n\n
+2.  Masukkan kentang halus lalu aduk rata, masukkan tepung terigu sedikit demi sedikit sambil diaduk hingga rata. \n\n
+3.	Tuang santan, garam dan margarin, aduk hingga rata.\n\n
+4.  Saring adonan agar lembut dan tidak ada yang bergumpal. \n\n
+5.	Panaskan cetakan kue lumpur dan olesi tipis dengan margarin. \n\n
+6.  Tuang adonan sampai penuh dan masak di atas api kecil agar matang merata serta tidak gosong. \n\n
+7.	Saat kue sudah setengah matang beri topping di atasnya, tunggu sampai bagian atas kue padat dan matang lalu angkat dan siap untuk disajikan. \n\n </item>
+        <item> \n
+1.	Pertama-tama membuat adonan biang, yaitu campur tepung terigu, 1 sdm gula pasir, ragi dan air lalu aduk rata kemudian diamkan adonan minimal selama 5 menit. \n\n
+2.	Campurkan tepung beras, gula pasir, telur, adonan biang dan sedikit santan. \n\n
+3.  Uleni dengan tangan hingga rata dan gula larut baru kemudian tuang semua sisa santannya. \n\n
+4.  Aduk hingga rata lalu diamkan adonan minimal selama 1 jam. \n\n
+5.	Panaskan cetakan serabi anti lengket atau wajan cekung yang anti lengket dengan menggunakan api kecil. \n\n
+6.  Tuang 1 sendok sayur adonan dan langsung tekan adonan dengan sendok sayur tersebut sambil sedikit digoyang memutar untuk membentuk pinggirannya lalu tutup. \n\n
+7.  Lakukan dengan cepat saat adonan baru selesai dituang, jika sedikit lama maka adonan akan mengental dan menjadi sulit membentuk pinggirannya. \n\n
+8.	Tutup wajan dan masak hingga matang sekitar 4 menit, buka tutup dan angkat.\n\n
+9.  Lengkapi penyajiannya dengan aneka topping sesuai selera.\n\n</item>
+        <item> \n
+1.	Kocok telur, gula pasir dan emulsifier dengan mixer kecepatan tinggi hingga kaku dan kental selama 10 menit. \n\n
+2.	Masukkan campuran terigu dan baking powder, ayak dahulu agar tidak bergumpal.\n\n
+3.  Masukkan vanili lalu air soda serta aduk perlahan. Kocok lagi sebentar dengan mixer supaya adonan tercampur rata. \n\n
+4.	Jika ingin membuat 4 variasi warna, 3 warna ambil masing-masing 6 sendok makan adonan lalu campur rata masing-masingnya dengan warna pasta yang dipilih.\n\n
+5.  Sisakan adonan untuk warna dasarnya diberi pasta putih atau rasa sesuai selera, aduk rata.\n\n
+6.  Sementara itu panaskan kukusan dengan air secukupnya atau jangan sampai penuh sampai benar-benar mendidih. \n\n
+7.	Tuang adonan putih ke dalam cetakan bolu kukus berlubang yang sudah dilapisi cup kertas dan lanjutkan dengan sedikit adonan warna lainnya sampai penuh atau sejajar dengan cetakan. \n\n
+8.  Masukkan dalam kukusan dengan diberi jarak karena tidak mengapa adonan dibiarkan menunggu giliran. \n\n
+9.	Kukus selama 10 menit dengan api besar, tutup kukusan dengan dialasi kain serbet agar uap air tidak ada yang menetes. \n\n</item>
+        <item> \n
+1.	Kocok telur dan gula pasir menggunakan mixer kecepatan tinggi hingga mengambang dan halus lalu turunkan kecepatan mixer menjadi sedang. \n\n
+2.	Campurkan tepung terigu dan ragi instan, aduk rata kemudian masukkan ke dalam kocokan telur sedikit demi sedikit sambil diaduk hingga rata. \n\n
+3.  Tuang santan yang sudah dididihkan tadi, aduk sampai rata lalu matikan mixer dan istirahatkan adonan selama 30 menit. \n\n
+4.	Masukkan keju, pasta pandan dalam adonan, aduk rata kemudian tuang ke dalam cetakan kue pukis yang sudah dipanaskan di atas api kecil dan diolesi tipis dengan margarin.\n\n
+5.  Isi adonan dengan tidak sampai penuh karena nanti akan mengembang, tutup dan masak sampai setengah matang lalu taburi dengan meses atau topping lainnya lalu tutup kembali. \n\n
+6.  Masak hingga matang dan bagian bawah berwarna kecoklatan.\n\n</item>
+        <item> \n
+1.	Didihkan air dan garam di atas api sedang. \n\n
+2.  Masukkan larutan tepung kanji sambil diaduk hingga adonan mengental, angkat. \n\n
+3.	Aduk terus hingga adonan mengental rata dan agak dingin, campurkan sisa tepung kanji sedikit demi sedikit ke dalamnya. \n\n
+4.  Uleni hingga rata, lalu bagi adonan menjadi 3 bagian dan masing2nya diberi warna. \n\n
+5.	Ambil 1 sdm adonan setiap warna lalu rekatkan menjadi satu, gulung bentuk panjang sebesar kelingking lalu potong-potong. \n\n
+6.	Masak air dan daun pandan hingga mendidih. Kecilkan api lalu tutup panci, masak hingga aroma pandan meresap.\n\n
+7.  Buang daun pandan, masukkan adonan yang sudah dipotong-potong, masak hingga mengapung (kurang lebih 5 menit), angkat. \n\n
+8.	Gulingkan ke dalam kelapa parut yang sudah dicampur garam, hidangkan dengan taburan gula pasir.\n\n</item>
+        <item> \n
+1.  Pastikan resep kue kering bola-bola Coklat sesuai takaran selanjutnya masukkan susu kental manis,margarin kedalam coklat yang sudah di lelehkan aduk rata.\n\n
+2.  Kemudian campurkan bahan-bahan kering seperti biskuit yang sudah di remukkan dan kacang mede cincang aduk sampai semua bahan tercampur. \n\n
+3.  Setelah adonan siap buat dan bentuk adonan menyerupai bola kecil dan gulingkan kedalam meisess sampai menutupi semua permukaan, terus lakukan sampai semua habis.\n\n
+4.  Masukan bola yang sudah jadi kedalam lemari es kurang lebih selama setengah jam dan kue kering bola-bola coklat siap di sajikan.\n\n</item>
     </string-array>
     <array name="picture_cake">
         <item>@drawable/m</item>

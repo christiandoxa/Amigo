@@ -13,7 +13,7 @@ public class Drink implements Serializable {
     public String cara;
     public String foto;
 
-    public Drink(String judul, String deskripsi, String cara, String bahan, String foto) {
+    public Drink(String judul, String deskripsi, String bahan, String cara, String foto) {
         this.judul = judul;
         this.deskripsi = deskripsi;
         this.bahan = bahan;

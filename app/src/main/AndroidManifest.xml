@@ -22,7 +22,10 @@
             android:name=".DetailActivityFood"
             android:label="@string/title_activity_detail"
             android:theme="@style/AppTheme.NoActionBar" />
-
+        <activity
+            android:name=".DetailActivityDrink"
+            android:label="@string/title_activity_detail"
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".DetailActivityCake"
             android:label="@string/title_activity_detail"

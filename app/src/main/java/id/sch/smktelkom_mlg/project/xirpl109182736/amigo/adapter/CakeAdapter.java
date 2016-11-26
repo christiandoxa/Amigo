@@ -1,5 +1,7 @@
 package id.sch.smktelkom_mlg.project.xirpl109182736.amigo.adapter;
 
+import android.content.Context;
+import android.net.Uri;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -17,16 +19,17 @@ import id.sch.smktelkom_mlg.project.xirpl109182736.amigo.model.Cake;
  */
 
 public class CakeAdapter extends RecyclerView.Adapter<CakeAdapter.ViewHolder> {
-
     ArrayList<Cake> cakelist;
+    ICakeAdapter mICakeAdapter;
 
-    public CakeAdapter(ArrayList<Cake> cakelist) {
+    public CakeAdapter(Context context, ArrayList<Cake> cakelist) {
         this.cakelist = cakelist;
+        mICakeAdapter = (ICakeAdapter) context;
     }
 
     @Override
     public ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
-        View v = LayoutInflater.from(parent.getContext()).inflate(R.layout.item_list_food, parent, false);
+        View v = LayoutInflater.from(parent.getContext()).inflate(R.layout.item_list_cake, parent, false);
         ViewHolder vh = new ViewHolder(v);
         return vh;
     }
@@ -36,7 +39,7 @@ public class CakeAdapter extends RecyclerView.Adapter<CakeAdapter.ViewHolder> {
         Cake cake = cakelist.get(position);
         holder.tvJudul.setText(cake.judul);
         holder.tvDeskripsi.setText(cake.deskripsi);
-        holder.ivfoto.setImageDrawable(cake.foto);
+        holder.ivfoto.setImageURI(Uri.parse(cake.foto));
     }
 
     @Override
@@ -44,6 +47,10 @@ public class CakeAdapter extends RecyclerView.Adapter<CakeAdapter.ViewHolder> {
         if (cakelist != null)
             return cakelist.size();
         return 0;
+    }
+
+    public interface ICakeAdapter {
+        void doClick(int pos);
     }
 
     public class ViewHolder extends RecyclerView.ViewHolder {
@@ -56,6 +63,13 @@ public class CakeAdapter extends RecyclerView.Adapter<CakeAdapter.ViewHolder> {
             ivfoto = (ImageView) itemView.findViewById(R.id.imageView);
             tvJudul = (TextView) itemView.findViewById(R.id.textViewJudul);
             tvDeskripsi = (TextView) itemView.findViewById(R.id.textViewDeskripsi);
+
+            itemView.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+                    mICakeAdapter.doClick(getAdapterPosition());
+                }
+            });
         }
     }
 }

@@ -2,6 +2,18 @@
 ## Penjelasan Aplikasi
 
 ## Screenshoot Aplikasi
+![SCREENSHOT 1](https://github.com/zhergiuz/Amigo/blob/master/4.jpeg)
+![SCREENSHOT 2](https://github.com/zhergiuz/Amigo/blob/master/3.jpeg)
+![SCREENSHOT 3](https://github.com/zhergiuz/Amigo/blob/master/2.jpeg)
+![SCREENSHOT 4](https://github.com/zhergiuz/Amigo/blob/master/1.jpeg)
+
+![SCREENSHOT 5](https://github.com/zhergiuz/Amigo/blob/master/5.jpeg)
+![SCREENSHOT 6](https://github.com/zhergiuz/Amigo/blob/master/6.jpeg)
+![SCREENSHOT 7](https://github.com/zhergiuz/Amigo/blob/master/7.jpeg)
+![SCREENSHOT 8](https://github.com/zhergiuz/Amigo/blob/master/8.jpeg)
+![SCREENSHOT 9](https://github.com/zhergiuz/Amigo/blob/master/9.jpeg)
+![SCREENSHOT 10](https://github.com/zhergiuz/Amigo/blob/master/10.jpeg)
+![SCREENSHOT 11](https://github.com/zhergiuz/Amigo/blob/master/11.jpeg)
 
 ## Video Aplikasi
 
@@ -35,3 +47,5 @@
      NIS         : 4858/1577.070
      Username    : yusronhanan
      NAMA SEKOLAH: Telkom School SMK Telkom Malang
+     
+     

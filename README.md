@@ -18,7 +18,7 @@
 <img src="https://github.com/zhergiuz/Amigo/blob/master/11.jpeg" width="30%" height="30%">
 
 ## Video Aplikasi
-    [![ScreenShot](https://github.com/zhergiuz/Amigo/blob/master/Screenshot%20(15).png)](https://youtu.be/0POOS9FqhAQ)
+    [![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://youtu.be/0POOS9FqhAQ)
 ## Link Aplikasi
    Aplikasi dapat di unduh di : https://drive.google.com/open?id=0B7xVNUhAO5SuSEg5WVF2Wk5zUlE
 ## Identitas Anggota

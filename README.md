@@ -2,7 +2,7 @@
 ## Judul Aplikasi
     Amigo
 ## Penjelasan Aplikasi
-   Amigo adalah sebuah aplikasi berbasis android yang bertemakan tentang resep makanan. Amigo dibuat untuk mempermudah semua orang bisa dalam membuat masakan maupun minuman yang mana resepnya sudah disediakan di aplikasi ini. Didalam menu home terdapat 3 kategori resep yang ditampilkan, yaitu kategori food, kategori drink dan kategori cake. Ketika diklik salah satu kategori, akan ditampilkan halaman baru berupa list masakan ataupun minuman. Didalam halaman ini juga user bisa menggunakan fiture search untuk mempermudah mencari resep yang diinginkan. Ketika user memilih itemlist nya akan ditampilakan halaman baru lagi yang berisi penjelasan tentang item, bahan dan cara membuatnya. <br>
+   Amigo adalah sebuah aplikasi berbasis android yang bertemakan tentang resep makanan. Amigo dibuat untuk mempermudah para ibu rumah tangga dalam membuat masakan maupun minuman yang mana resepnya sudah disediakan di aplikasi ini. Didalam menu home terdapat 3 kategori resep yang ditampilkan, yaitu kategori food, kategori drink dan kategori cake. Ketika diklik salah satu kategori, akan ditampilkan halaman baru berupa list masakan ataupun minuman. Didalam halaman ini juga user bisa menggunakan fiture search untuk mempermudah mencari resep yang diinginkan. Ketika user memilih itemlist nya akan ditampilakan halaman baru lagi yang berisi penjelasan tentang item, bahan dan cara membuatnya. <br>
 ## Screenshoot Aplikasi
 <img src="https://github.com/zhergiuz/Amigo/blob/master/4.jpeg" width="30%" height="30%">
 <img src="https://github.com/zhergiuz/Amigo/blob/master/3.jpeg" width="30%" height="30%"><br>

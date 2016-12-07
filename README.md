@@ -1,6 +1,6 @@
 # Amigo
 ## Penjelasan Aplikasi
-
+   Amigo adalah sebuah aplikasi yang berbasis android bertemakan tentang resep makanan. Amigo dibuat supaya semua orang bisa membuat makanan yang resepnya sudah ada di apikasi ini. Terdapat resep makanan seperti cara membuat makanan, minuman, dan kue. Didalamnya sudah terdapat penjelasan tentang makanan, bahan-bahan, dan cara membuatnya. <br>
 ## Screenshoot Aplikasi
 <img src="https://github.com/zhergiuz/Amigo/blob/master/4.jpeg" width="30%" height="30%">
 <img src="https://github.com/zhergiuz/Amigo/blob/master/3.jpeg" width="30%" height="30%"><br>

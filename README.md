@@ -1,6 +1,6 @@
 # Amigo
 ## Penjelasan Aplikasi
-   Amigo adalah sebuah aplikasi yang berbasis android bertemakan tentang resep makanan. Amigo dibuat supaya semua orang bisa membuat makanan yang resepnya sudah ada di apikasi ini. Terdapat resep makanan seperti cara membuat makanan, minuman, dan kue. Didalamnya sudah terdapat penjelasan tentang makanan, bahan-bahan, dan cara membuatnya. <br>
+   Amigo adalah sebuah aplikasi berbasis android yang bertemakan tentang resep makanan. Amigo dibuat untuk mempermudah semua orang bisa dalam membuat masakan maupun minuman yang mana resepnya sudah disediakan di aplikasi ini. Didalam menu home terdapat 3 kategori resep yang ditampilkan, yaitu kategori food, kategori drink dan kategori cake. Ketika diklik salah satu kategori, akan ditampilkan halaman baru berupa list masakan ataupun minuman. Didalam halaman ini juga user bisa menggunakan fiture search untuk mempermudah mencari resep yang diinginkan. Ketika user memilih itemlist nya akan ditampilakan halaman baru lagi yang berisi penjelasan tentang item, bahan dan cara membuatnya. <br>
 ## Screenshoot Aplikasi
 <img src="https://github.com/zhergiuz/Amigo/blob/master/4.jpeg" width="30%" height="30%">
 <img src="https://github.com/zhergiuz/Amigo/blob/master/3.jpeg" width="30%" height="30%"><br>
@@ -41,11 +41,11 @@
      Username    : qoriatulmasfufah
      Nama Sekolah: Telkom School SMK Telkom Malang
  
-     NAMA        : Yusron Hanan Zain Vidi Imtinan
-     KELAS       : XI RPL 1
-     NO. URUT    : 36
+     Nama        : Yusron Hanan Zain Vidi Imtinan
+     Kelas       : XI RPL 1
+     No. Urut    : 36
      NIS         : 4858/1577.070
      Username    : yusronhanan
-     NAMA SEKOLAH: Telkom School SMK Telkom Malang
+     Nama Sekolah: Telkom School SMK Telkom Malang
      
      
